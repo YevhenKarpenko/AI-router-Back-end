@@ -9,7 +9,7 @@ const app = express();
 const port = 5000;
 
 const corsOptions = {
-    origin: 'https://remarkable-bunny-a21fbf.netlify.app/generate', 
+   origin: 'https://remarkable-bunny-a21fbf.netlify.app',
     optionsSuccessStatus: 200 // For legacy browser support
 };
 
